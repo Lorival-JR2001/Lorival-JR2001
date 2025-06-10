@@ -35,3 +35,5 @@ NDG Linux Unhatched
 ⚙️ Infraestrutura de TI: noções de cabeamento, configuração de roteadores e complementos téoricos.
 
 Sou motivado, curioso e com espírito de aprendizado contínuo. Busco oportunidades que me permitam crescer profissionalmente, resolver problemas reais e colaborar com soluções em tecnologia.
+
+First commit
