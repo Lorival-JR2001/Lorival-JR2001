@@ -36,4 +36,4 @@ NDG Linux Unhatched
 
 Sou motivado, curioso e com espírito de aprendizado contínuo. Busco oportunidades que me permitam crescer profissionalmente, resolver problemas reais e colaborar com soluções em tecnologia.
 
-First commit
+
