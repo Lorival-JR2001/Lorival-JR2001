@@ -1,4 +1,3 @@
-👨‍💻 Sobre Mim
 Meu nome é **Lorival Luiz Fernandes Júnior**, trabalho em Suporte Técnico em um Provedor de Serviços de Internet, com experiência prática no atendimento ao cliente e solução de problemas técnicos.
 
 Sou formado como Técnico em Informática pelo IFSULDEMINAS – Campus Inconfidentes, curso integrado ao Ensino Médio (2016–2018). Atualmente, continuo minha trajetória acadêmica na mesma instituição, cursando Tecnologia em Redes de Computadores, com foco no aprofundamento técnico em redes, sistemas e automação.
