@@ -5,6 +5,7 @@ Sou formado como Técnico em Informática pelo IFSULDEMINAS – Campus Inconfide
 Tenho grande interesse em ampliar meus conhecimentos na área de Tecnologia da Informação, especialmente nas áreas de redes de computadores, sistemas operacionais e programação.
 
 🎓 Formação Acadêmica
+
 Tecnologia em Redes de Computadores — IFSULDEMINAS – Campus Inconfidentes (cursando)
 
 Técnico em Informática Integrado ao Ensino Médio — IFSULDEMINAS (2016–2018)
@@ -15,6 +16,7 @@ Introduction to IoT (Internet das Coisas)
 Introduction to Python 1
 
 NDG Linux Unhatched
+
 
 💼 Experiência e Habilidades
 
