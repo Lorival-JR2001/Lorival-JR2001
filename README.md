@@ -12,11 +12,12 @@ Técnico em Informática Integrado ao Ensino Médio — IFSULDEMINAS (2016–201
 📚 Cursos Complementares (Cisco Networking Academy)
 Introduction to IoT (Internet das Coisas)
 
-Introduction to Python
+Introduction to Python 1
 
-Linux Unhatched
+NDG Linux Unhatched
 
 💼 Experiência e Habilidades
+
 💬 Atendimento ao Cliente: experiência direta em suporte técnico e orientação ao usuário em ambiente de provedor de internet.
 
 🌐 Redes de Computadores: conhecimento em redes LAN, endereçamento IP, configuração de equipamentos, protocolos como TCP/IP, DNS e DHCP.
